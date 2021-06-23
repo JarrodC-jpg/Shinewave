@@ -1,0 +1,13 @@
+Partlist exported from Y:/EE_Projects/Shinewave/circuit/main.sch at 1/7/2021 5:34 AM
+
+Qty Value               Device              Package             Parts  Description                                                   MF MPN            OC_FARNELL OC_NEWARK PACKAGE SUPPLIER
+1   1.5k                R-US_R0603          R0603               R3     RESISTOR, American symbol                                                                                            
+1   10nF                C-EUC0603           C0603               C1     CAPACITOR, European symbol                                                                                           
+1   12MHz               CRYSTALCTS406       CTS406              Q3     CRYSTAL                                                                         unknown    unknown                   
+2   1uF                 C-EUC0603           C0603               C2, C3 CAPACITOR, European symbol                                                                                           
+2   20pF                C-EUC0603           C0603               C4, C5 CAPACITOR, European symbol                                                                                           
+2   22-27-2041-04       22-27-2041-04       6410-04             J1, J4 CONNECTOR                                                                       unknown    unknown                   
+2   68                  R-US_R0603          R0603               R1, R2 RESISTOR, American symbol                                                                                            
+1   ATTINY84-20SSU      ATTINY84-20SSU      SOIC127P600X175-14N U1     8-bit Microcontroller with Bytes In-System Programmable Flash    ATTINY84-20SSU 1636955    03P2040   SOIC-14 Atmel   
+1   ICSP_POGO_INTERFACE ICSP_POGO_INTERFACE ICSP_SMD            U$1    ICSP pads for programming over a pogo-pin interface.                                                                 
+1   LD398533RM          LD398533RM          SOT23-5L            IC2    Ultra low drop and low noise BiCMOS voltage regulators                                                               

@@ -16,3 +16,5 @@ cp main.hex releases/t167_default.hex
 make clean
 make CONFIG=Nanite841
 cp main.hex releases/Nanite841.hex
+
+PAUSE

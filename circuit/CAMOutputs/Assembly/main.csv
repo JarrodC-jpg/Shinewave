@@ -1,0 +1,15 @@
+"Part";"Value";"Device";"Package";"Description";"MF";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"SUPPLIER";
+"C1";"10nF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"C2";"1uF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"C3";"1uF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"C4";"20pF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"C5";"20pF";"C-EUC0603";"C0603";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"IC2";"LD398533RM";"LD398533RM";"SOT23-5L";"Ultra low drop and low noise BiCMOS voltage regulators";"";"";"";"";"";"";
+"J1";"22-27-2041-04";"22-27-2041-04";"6410-04";"CONNECTOR";"";"";"unknown";"unknown";"";"";
+"J4";"22-27-2041-04";"22-27-2041-04";"6410-04";"CONNECTOR";"";"";"unknown";"unknown";"";"";
+"Q3";"12MHz";"CRYSTALCTS406";"CTS406";"CRYSTAL";"";"";"unknown";"unknown";"";"";
+"R1";"68";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";"";
+"R2";"68";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";"";
+"R3";"1.5k";"R-US_R0603";"R0603";"RESISTOR, American symbol";"";"";"";"";"";"";
+"U$1";"ICSP_POGO_INTERFACE";"ICSP_POGO_INTERFACE";"ICSP_SMD";"ICSP pads for programming over a pogo-pin interface.";"";"";"";"";"";"";
+"U1";"ATTINY84-20SSU";"ATTINY84-20SSU";"SOIC127P600X175-14N";"8-bit Microcontroller with Bytes In-System Programmable Flash";"";"ATTINY84-20SSU";"1636955";"03P2040";"SOIC-14";"Atmel";
